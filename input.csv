@@ -1,0 +1,11 @@
+ticker,sector,analyst,theme,weighted
+AAPL,Technology,Amy,growing,0.1
+NFLX,Technology,Bob,leading,0.1
+GOOG,Technology,Bob,growing,0.1
+AMZN,Technology,Amy,growing,0.1
+JPM,Finance,John,leading,0.1
+JNJ,Health,Amy,leading,0.1
+INVA,Health,John,growing,0.1
+BAC,Finance,Bob,growing,0.1
+GS,Finance,Amy,leading,0.1
+TSLA,Technology,Bob,leading,0.1
